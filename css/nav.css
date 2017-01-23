@@ -1,0 +1,66 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header{
+background-color: #004556;
+	display:block;
+	width:100%;
+	float: left;
+}
+.mainmenu{
+	width:1170px;
+	margin:0 auto;
+	font:normal 14px Open Sans;
+}
+.header .logo{
+	float:left;
+	padding:30px 0 20px 15px;
+}
+.header .menubar{
+	float:right;
+	padding:10px 0;
+}
+.logged_in{
+	padding-right:30px;
+}
+.logged_in, .logged_in a{
+	color:#fff;
+	margin-bottom:20px;
+	text-align: right;
+}
+.menubar ul{
+	list-style-type: none;
+}
+.menubar ul li{
+	float: left;
+	text-align: center;
+	width:100px;
+}
+.menubar ul li a{
+	text-decoration: none;
+}
+.menubar ul li label{
+	display: block;
+text-align: center;
+color:#fff;
+text-decoration: none;
+}
+.menubar img{
+    width:30px;
+   }
+   .menubar .msg_icon{
+    width:36px;
+   }
+   .menubar .sche_icon{
+    width:32px;
+   }
+   .menubar .pati_icon{
+    width:38px;
+   }
+   .menubar .eco_icon{
+    width:28px;
+   }
+    .menubar .bill_icon{
+    height:36px;
+   }

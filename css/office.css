@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding:0;
+}
+.head-title{
+	background-color: #0070A4;
+	color: #fff;
+	font:normal 18px Open Sans;
+	padding:15px;
+	text-align: center;
+	margin: 0;
+}
+.visit_profile{
+	  background-color: #00404d;
+    color: #fff;
+    font: 14px open sans;
+    padding: 20px 0;
+}
+.visit_profile p{
+	line-height: 24px;
+}
+.visit_profile p a{
+	font-weight: bold;
+	color:#76bdd3;
+}

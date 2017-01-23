@@ -1,0 +1,290 @@
+	.econsult--title{
+		color: #87bb3d;
+			font: 26px Open Sans;
+			margin-bottom: 25px;
+			display:inline-block;
+			/*margin: 0;*/
+		}
+	.box{
+		background-color: #fbfbfb;	  			  		
+		/*-webkit-box-shadow: 0 0 4px -1px rgba(184, 180, 184, 1);
+	-moz-box-shadow: 0 0 4px -1px rgba(184, 180, 184, 1);
+	box-shadow: 0 0 4px -1px rgba(184, 180, 184, 1);
+	border-radius: 4px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+	padding: 20px;*/
+	min-height: 215px;
+	margin-bottom: 40px;
+		}
+	/*.panel:last-child {
+		margin-right: 0;
+		}*/
+	.panel .panel--title{
+		color: #1C779D;
+			font: 20px Open Sans;
+			margin: 0 0 10px 0;
+			display: inline-block;
+		}
+	.panel .panel--title__expiry{
+		color: #ffa700;
+		float:right;
+		font:normal 14px Open Sans;
+	}
+	.panel .panel--para {
+		color: #666;
+			font: 14px Open Sans;
+		}
+		.panel .panel--para b{
+			color: #8e8e8f;
+		}
+		.panel .panel--para--expiry{
+			color: #666;
+			font: 12px Open Sans;
+		}
+		.panel .panel--para--expiry__text{
+			 background-color: #ff0000;
+			 color: #fff;
+			 padding: 2px 5px;
+
+		}
+
+
+
+ .econsult--panel {
+    background: #f9f9f9 none repeat scroll 0 0;
+    /*background-color: #004556;*/
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    font: 14px open sans;
+    padding: 15px;
+}
+.econsult--panel__profile--img{
+	margin-right:20px;
+}
+.econsult--panel__profile--img img{
+		border:solid 1px #e3e3e3;
+	border-radius: 5px;
+}
+.econsult--panel__progile--text h4{
+	margin-top:5px;
+	margin-bottom:5px;
+
+}
+#accordion .panel{
+	margin:20px 0;
+}
+#accordion .panel-heading{
+	background-color: #004556;
+	color:#fff;
+	font:normal 16px Open Sans;
+}
+#accordion .panel-body h4{
+	color:#222;
+	font:normal 16px Open Sans;
+}
+#accordion .panel-body p{
+	color: :#666;
+	font:normal 14px Open Sans;
+}
+#accordion .list{
+	padding-left:30px;	
+}
+#accordion .list li{
+	font:normal 14px Open Sans;
+	color: #666;
+	}
+.accordion-toggle:hover, .accordion-toggle:focus{
+	color:#fff;
+}
+.edit-actions{
+	display: inline-block;
+	float:right;
+	top: -10px;
+ position: relative;
+}
+.edit-actions .edit:hover, .edit-actions .ok:hover{
+		cursor:pointer;
+}
+.edit-actions span {
+    border: 1px solid #ccc;
+    color: #666;
+    float: right;
+    padding: 5px;
+}
+
+.econsult-profile {
+	border-bottom:solid 1px #ededed;
+	float:left;
+	margin-bottom:15px;
+	padding-bottom:10px;
+	width:100%;
+}
+
+.econsult-profile img{
+				border: 1px solid #dfdfdf;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    padding: 5px;
+}
+.econsult-profile .econsult-profile-text{
+	float:left;
+	font-family:Open Sans;
+}
+.econsult-profile .econsult-profile-text h4{
+	font: 20px open sans;
+    margin-bottom: 5px;
+    margin-top: 0;
+	}
+	.econsult-detail .date{
+	margin:30px 0 0 26px;
+	float:right;
+}
+.econsult-detail .date > span {
+    color: #888;
+    font: 14px open sans;
+    padding-right: 10px;
+}
+/*.econsult-detail span{
+	font: normal 14px Open Sans;
+	margin-right:10px;
+	margin-left:10px;
+}*/
+.econsult-detail .play{
+	font-family:Open Sans;
+}
+.econsult-detail span:last-child{
+	font-family: "Glyphicons Halflings";
+}
+.econsult-details-desc h4{
+	font:normal 22px Open Sans;
+	color:#333;
+}
+.econsult-details-desc p{
+	font:normal 16px Open Sans;
+	text-align:justify;
+}
+.attachment .no, .econsult_patient_container .no{
+	background-color: #FFAD00;
+	font:normal 16px Open Sans;
+	color:#fff;
+	text-align: center;
+	display:inline-block;
+	padding:3px 10px;
+	border-radius:4px;
+	margin-right:10px;
+}
+.attachment h4{
+	font:normal 16px Open Sans;
+	color:#333;
+
+}
+.attachment .audio{
+	font:normal 14px Open Sans;
+	padding:15px;
+	margin:0;
+}
+.gallery{
+	margin-top:15px;
+}
+.gallery img{
+	border-radius: 4px;
+	padding:1px;
+}
+.display_date {
+    background-color: #0094c8;
+    color: #fff;
+    min-height:45px;
+    font: 14px open sans;
+    padding: 10px 20px;
+}
+.display_date p {
+	margin:0;
+	}
+	.display_date p span{
+		padding-right:8px;
+	}
+	.display_date button span{
+		padding-right: 5px;
+		font-size:12px;
+	}
+	.display_date button{
+		background-color: #006383;
+    border: 1px solid #006382;
+    border-radius: 4px;
+    color: #fff;
+    padding: 2px 6px;
+	}
+	.econsult_submenu .navbar-collapse li a{
+		font: normal 15px Open Sans;
+	}
+	.econsult_submenu .navbar-collapse{
+		padding-top: 0;
+	}
+.econsult_submenu .navbar-collapse li a:hover{
+	border-bottom:solid 4px #6AC049;
+}
+.econsult_submenu .navbar {
+	margin-bottom: 0;
+}
+.econsult_patient_container {
+    border: 1px solid #e7e7e7;
+    background-color: #f9f9f9;
+    display: block;
+    float: left;
+    width: 100%;
+    
+}
+.econsult_patient_container h2{
+				font: 20px open sans;
+    margin-bottom: 15px;
+    /*margin-top: 0;*/
+    padding: 10px 15px 0 15px;
+    clear:left;
+}
+.econsult_patient_container .panel h4{
+			font: 18px Open Sans;
+			padding:0;
+			margin-top:0;
+}
+.econsult_patient_container .panel h4 span{
+  color: #666;
+    font: 12px Open Sans;
+    padding-top: 5px;
+}
+.econsult_patient_container .no{
+				display:inline-block;
+}
+.econsult_patient_container .panel .para{
+				color: #333;
+    font: lighter 14px/20px Open Sans;
+}
+.econsult_patient_container .allergy p{
+		margin-bottom:0;
+		font:normal 14px Open Sans;
+}
+.border-bottom{
+				border-bottom: 1px solid #ebebeb;
+    clear: both;
+    padding-top: 15px;
+}
+@media (max-width:400px) {
+			 .econsult-detail .date{
+			 	float: left;
+	    margin-bottom: 15px;
+	    margin-left: 0;
+	    margin-top: 0;
+			 }
+		}
+
+		@media (min-width:768px) {
+			 .box{
+			 		min-height: 235px;
+			 }
+		}
+		@media (min-width:1280px) {
+			 .box{
+			 		min-height: 215px;
+			 }
+		}
